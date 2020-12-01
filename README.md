@@ -44,3 +44,6 @@
 Похожие списки:
 - https://github.com/Hexlet/ru-local-communities
 - https://dev.by/news/400-it-communities-by-standuply
+
+
+- Репозиторий склонирован только ради дз
